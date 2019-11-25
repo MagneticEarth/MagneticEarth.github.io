@@ -143,8 +143,8 @@ body {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     > * {
-      max-height: 100vh; 
-      overflow-y: auto; 
+      max-height: 100vh;
+      overflow-y: auto;
       -webkit-overflow-scrolling: touch;
     }
   }
@@ -199,7 +199,7 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      max-width: 55rem;
       padding: 0;
     }
   }
