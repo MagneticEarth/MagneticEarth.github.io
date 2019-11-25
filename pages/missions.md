@@ -26,7 +26,7 @@ A summary of near-Earth spacecraft carrying high quality magnetometers. For more
 [Swarm]:  https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/mission-fact-sheet
 
 Schematic of a *Swarm* spacecraft:
-![Swarm spacecraft](/assets/swarm_sc.png)
+![Swarm spacecraft](/pages/figs/swarm_sc.png)
 
 
 [TODO: magnetosphere & heliosphere missions]

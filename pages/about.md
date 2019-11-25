@@ -31,5 +31,6 @@ jekyll serve --baseurl=''
 ### Tips for working with Jekyll
 
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- Put images in `/assets/` and insert in-line with e.g. `![Swarm spacecraft](/assets/swarm_sc.png)`
+- Put images in `pages/figs/` and insert in-line with e.g. `![Swarm spacecraft](/pages/figs/swarm_sc.png)`
 - Link to other pages like `[About this site]({{ site.baseurl }}{% link pages/about.md %})`
+- Include html from static files stored in `pages/figs/` with `{{ "{% include_relative figs/mag_obs_map.html " }}%}`
