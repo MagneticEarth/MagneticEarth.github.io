@@ -1,0 +1,85 @@
+<table>
+  <tr>
+    <th>Model name</th>
+    <th>Source field</th>
+    <th>Notes (maximum spherical harmonic degree, l, and order, m)</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <i><b>Comprehensive inversion - Updated yearly with 6 week latency</b></i>
+    </td>
+  </tr>
+  <tr>
+    <td>MCO_SHA_2C</td>
+    <td>Core</td>
+    <td>SH l=1-18</td>
+  </tr>
+  <tr>
+    <td>MIO_SHA_2C<sup>&#8224;</sup></td>
+    <td>Ionosphere (Sq)</td>
+    <td>SH l=1-60, m=1-12 *</td>
+  </tr>
+  <tr>
+    <td>MLI_SHA_2C</td>
+    <td>Lithosphere</td>
+    <td>SH l=16-150</td>
+  </tr>
+  <tr>
+    <td>MMA_SHA_2C<sup>&#8224;</sup></td>
+    <td>Magnetosphere</td>
+    <td>SH l=1; 1 hour cadence</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <i><b>Dedicated inversions - Updated yearly with 6 week latency</b></i>
+    </td>
+  </tr>
+  <tr>
+    <td>MCO_SHA_2D</td>
+    <td>Core</td>
+    <td>SH l=1-18</td>
+  </tr>
+  <tr>
+    <td>MIO_SHA_2D<sup>&#8224;</sup></td>
+    <td>Ionosphere (Sq)</td>
+    <td>SH l=1-60, m=1-12 *</td>
+  </tr>
+  <tr>
+    <td>MLI_SHA_2D</td>
+    <td>Lithosphere</td>
+    <td>SH l=16-150</td>
+  </tr>
+  <tr>
+    <td>MIO_SHA_2E</td>
+    <td>Polar ionosphere</td>
+    <td>(the AMPS model) SH model also parameterised by solar wind</td>
+  </tr>
+  <tr>
+    <td colspan="3"><i><b>Fast track inversions</b></i></td>
+  </tr>
+  <tr>
+    <td>MCO_SHA_2F</td>
+    <td>Core</td>
+    <td>SH l=1-18; updated every 3 months with 1 week latency</td>
+  </tr>
+  <tr>
+    <td>MMA_SHA_2F<sup>&#8224;</sup></td>
+    <td>Magnetosphere</td>
+    <td>SH l=1; 1.5 hour cadence; updated daily</td>
+  </tr>
+  <tr>
+    <td>FAC_TMS_2F</td>
+    <td>Field-aligned currents</td>
+    <td>Time series along the orbit</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      * <i>SH in QD coordinates, modulated by seasonal and daily wavenumbers; valid within &plusmn;55&deg; QDLat</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <sup>&#8224;</sup> <i>In two parts, "primary" and "secondary" for external and internal (induced) fields respectively</i>
+    </td>
+  </tr>
+</table>
