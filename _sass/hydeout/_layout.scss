@@ -186,6 +186,7 @@ body {
              0;
     height: 100vh;
 
+
     > header {
       color: $heading-color;
       margin: 0;
@@ -199,7 +200,7 @@ body {
     }
 
     > * {
-      max-width: 55rem;
+      max-width: 65rem;
       padding: 0;
     }
   }
