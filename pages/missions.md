@@ -7,7 +7,9 @@ sidebar_sort_order: 3
 
 ## Low Earth Orbit
 
-A summary of near-Earth spacecraft carrying high quality magnetometers. For more info, see e.g. [Olsen & Stolle, 2012](http://dx.doi.org/10.1146/annurev-earth-042711-105540). The focus here is on satellites in Low Earth Orbit (LEO) that produced data suitable for geomagnetic field modelling, though these satellites typically also carry instruments that measure the electric field and plasma environment.
+A summary of near-Earth spacecraft carrying high quality magnetometers.
+For more info, see e.g. [Olsen & Stolle, 2012](https://dx.doi.org/10.1146/annurev-earth-042711-105540).
+The focus here is on satellites in Low Earth Orbit (LEO) that produced data suitable for geomagnetic field modelling, though these satellites typically also carry instruments that measure the electric field and plasma environment.
 
 | Mission name | Years     | Description | Data access |
 |--------------|-----------|-------------|-------------|
