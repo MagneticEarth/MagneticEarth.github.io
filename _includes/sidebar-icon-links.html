@@ -1,5 +1,5 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
+  <!-- {% if site.hydeout.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
        href="{{ site.hydeout.repo }}">
@@ -10,7 +10,7 @@
        href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
       {% include svg/download.svg %}
     </a>
-  {% endif %}
+  {% endif %} -->
 
   <a id="github-link"
      class="icon" title="GitHub Organization" aria-label="GitHub Organization"
@@ -18,7 +18,7 @@
     {% include svg/github.svg %}
   </a>
 
-  <a id="subscribe-link"
+  <!-- <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
@@ -53,7 +53,7 @@
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
     </a>
-  {% endif %}
+  {% endif %} -->
 
   {% include custom-icon-links.html %}
 </nav>
