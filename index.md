@@ -10,17 +10,23 @@ This website aims to introduce the science of Earth's magnetic field to students
 It is currently in the early stages of development - if you are interested in contributing or have any comments, see [About this site]({{ site.baseurl }}{% link pages/about.md %})
 
 {% include_relative pages/figs/hvplot_igrf12_2020.html %}
+*Background colour: magnetic field intensity (magnitude) in nanoTesla*  
+*Red/blue contours (hover tooltip): magnetic field declination (deviation from true North) in degrees*
 
 ## What is geomagnetism?
-Geomagnetism is the study of the Earth's magnetic field.
-While the vast majority of the Earth's magnetic field resembles a dipole, similar to a bar magnet, we know that the measured magnetic field is a complicated addition of multiple field sources.
-These field sources originate from within the Earth's outer core, its crust (where we live!), its atmosphere, magnetosphere, and space.
-The magnetic field varies over time in predictable and unpredictable ways, which makes it an interesting area of study and difficult to account for in industry without regular adjustments.
+Geomagnetism is the study of Earth's magnetic field.
+While the vast majority of the field resembles a dipole, similar to a bar magnet, sensitive measurements reveal that its shape is more complex and in fact originates from the combination of multiple field sources.
+These sources range from within Earth's *outer core*, the *crust* (where we live!), *atmosphere*, and *magnetosphere*.
+The magnetic field varies over time in both predictable and unpredictable ways, which makes it an interesting area of study and has several applications within industry.
 
-Geomagnetists are scientists who study the Earth's magnetic field processes and data by using computational modelling, measurements from observatories, measurements from satellites, paleomagnetic signatures stored in dated rocks, and lab equipment.
-However, almost everyone has measured the magnetic field direction using a compass and utilises the magnetic field in everyday life.  
-The first evidence of humans using a compass dates to the 11th Century A.D. (in China) but geomagnetism measurements are relevant to multiple industries other than navigation.
-Most mobile phones contain a magnetometer and magnetic field changes have major implications for satellites, processes within the Earth, exploration geophysics, directional drilling, understanding other objects in our solar system, potential hazards to human activity, auroras, and more!
+*Geomagnetists* study Earth's magnetic field by processing measurements from observatories, surveys, and satellites, as well as *palaeomagnetic* signatures stored in dated rocks.
+They also gain insight into physical processes through laboratory experiments and computational simulations.
+However, almost everyone has measured the magnetic field direction themselves using a compass, with the first recorded evidence of compasses in the 11th Century A.D. in China.
+Today, a typical mobile phone contains a magnetometer and software which uses a geomagnetic model to help pinpoint your location and orientation.
 
-A more detailed introduction to geomagnetism is provided by the [British Geological Survey]({{https://geomag.bgs.ac.uk/education/earthmag.html}}).
-This website builds on this explaination by providing introductory explainations for broad subjects (given on the left hand side) with further links to external websites, where resources about geomagnetism can be found.
+Variations in the magnetic field are connected with geophysical processes both below Earth's surface and out into space, providing a tool to probe Earth's structure and composition as well as being implicated in phenomena such as the *aurorae* (the Northern and Southern Lights).
+Modern geomagnetic measurements are highly sophisticated and are connected with several industrial applications beyond navigation, including exploration geophysics, and operation of spacecraft and power grids.
+
+Other introductions to geomagnetism can be found at:
+- [British Geological Survey](https://geomag.bgs.ac.uk/education/earthmag.html)
+- [GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/en/section/geomagnetism/topics/)
