@@ -2,13 +2,14 @@
 layout: page
 title: Software tools
 sidebar_link: true
-sidebar_sort_order: 5
+sidebar_sort_order: 6
 ---
 
 ## Ground observatory data
 
 - [INTERMAGNET GitHub Org](https://github.com/INTERMAGNET)
 - [INTERMAGNET software list](https://intermagnet.github.io/software.html)
+- [USGS tools](https://github.com/usgs/geomag-algorithms)
 - [geomagpy](https://github.com/geomagpy)
 - [MagPySV](https://magpysv.readthedocs.io/)
 
@@ -31,6 +32,6 @@ Swarm data and the VirES platform are free to use
 - [Swarm Aurora](https://swarm-aurora.com/)
 
 ## Heliophysics
-- <https://heliopython.org/projects>
+- <http://heliopython.org/projects>
 
 [TODO: expand this list!]

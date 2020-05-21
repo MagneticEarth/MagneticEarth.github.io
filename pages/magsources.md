@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
-On this page we depict the vertical component of various magnetic field models, evaluated at Earth's surface. Each model is shown over different time scales, appropriate to the nature of each source.
+On this page we depict the radial (vertical downward) component of various magnetic field models, evaluated at Earth's surface. Each model is shown over different time scales, appropriate to the nature of each source.
 
 - table of contents
 {:toc}
@@ -16,9 +16,9 @@ On this page we depict the vertical component of various magnetic field models, 
   <source src="{{ site.baseurl }}/pages/figs/core_igrf_Z.webm"  type="video/webm"  />
 </video>
 
-*The main magnetic field over the past century [(IGRF-13)](https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html)*
+*The radial component of main magnetic field over the past century [(IGRF-13)](https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html)*
 
-Looking at the field in this way reveals only subtle changes, but the weakening over the South Atlantic is quite clear. It is more instructive to look at the other vector components together - [**see the Core field gallery**]({% link pages/gallery_core.md %}). Note that the magnitude of this field is ~1000x that of the following fields.
+Looking at the field in this way reveals only subtle changes, but the change over the South Atlantic is quite clear (though this is only the radial component of the vector - the total intensity is *not* dropping to zero). It is more instructive to look at the other vector components together - [**see the Core field gallery**]({% link pages/gallery_core.md %}). Note that the magnitude of this field is ~1000x that of the following fields.
 
 See also: <https://maps.ngdc.noaa.gov/viewers/historical_declination/>
 
