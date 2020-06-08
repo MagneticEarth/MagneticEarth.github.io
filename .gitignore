@@ -49,3 +49,4 @@ _config.dev.yml
 *.gem
 .jekyll*
 _site
+*.ipynb_checkpoints

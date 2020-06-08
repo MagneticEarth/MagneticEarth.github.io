@@ -21,7 +21,7 @@ sidebar_sort_order: 98
 - [BGS Introduction to Geomagnetism](http://www.geomag.bgs.ac.uk/education/earthmag.html)
 - [https://www.geomag.us/](https://www.geomag.us/)
 - [Space Physics](http://spacephysics.ucla.edu/index.html) interactive companion to text book
-- [EM GeoSci](https://em.geosci.xyz)
+- [EM GeoSci](https://em.geosci.xyz) - testbook on electromagnetic methods for geophysics
 
 
 ## Space weather
@@ -34,8 +34,8 @@ sidebar_sort_order: 98
 - [Aurorasaurus](http://www.aurorasaurus.org/)
 - [Aurora Watch UK](https://aurorawatch.lancs.ac.uk/)
 
-## Mailing lists
+## Academic mailing lists
 
-- [Gpmag](https://lists.ucsd.edu/mailman/listinfo/gpmag-l)
+- [Gpmag](https://lists.ucsd.edu/mailman/listinfo/gpmag-l) - Geomagnetism and paleomagnetism
 - [UK Geophysics](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=GEOPHYSICS)
-- [MIST](http://www.mist.ac.uk/community/mist-mailing-list)
+- [MIST (UK)](http://www.mist.ac.uk/community/mist-mailing-list) - Magnetosphere, Ionosphere, Solar-Terrestrial

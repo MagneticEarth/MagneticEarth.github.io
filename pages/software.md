@@ -1,37 +1,56 @@
 ---
 layout: page
-title: Software tools
+title: Software tools & services
 sidebar_link: true
 sidebar_sort_order: 6
 ---
 
-## Ground observatory data
+---
 
-- [INTERMAGNET GitHub Org](https://github.com/INTERMAGNET)
-- [INTERMAGNET software list](https://intermagnet.github.io/software.html)
-- [USGS tools](https://github.com/usgs/geomag-algorithms)
-- [geomagpy](https://github.com/geomagpy)
-- [MagPySV](https://magpysv.readthedocs.io/)
+## ESA Swarm services
 
-## Swarm data and models
+Swarm is augmented by a number of services aiming to improve accessibility of the data and models derived from the mission.
 
-Swarm data and the VirES platform are free to use
+| [**VirES for Swarm**](https://earth.esa.int/eogateway/tools/vires-for-swarm) | Graphical interface to explore the data and models
+| [**Swarm Virtual Research Environment (VRE)**](https://earth.esa.int/eogateway/tools/swarm-vre) | Cloud-based JupyterLab interface to interact with VirES using Python (see [viresclient](https://viresclient.readthedocs.io/))
 
-- Use a graphical interface to explore the data: [VirES](http://vires.services)
-  - also now includes JupyterLab (termed VRE - Virtual Research Environment) - see [Swarm-VRE](https://swarm-vre.readthedocs.io)
-- Access the VirES system using the Python interface: [viresclient](http://viresclient.readthedocs.io) (this is installed already within the VRE)
+[**(Check ESA website for other tools)**](https://earth.esa.int/eogateway/missions/swarm) 
 
-## Geomagnetic models
-- [ChaosMagPy](https://github.com/ancklo/ChaosMagPy)
-- [pyAMPS](https://github.com/klaundal/pyAMPS/); [WebAMPS](https://birkeland.uib.no/data/amps/)
+---
 
 ## Core field
-- [Geodyn](https://geodyn.univ-grenoble-alpes.fr)
 
-## Aurora
-- [Swarm Aurora](https://swarm-aurora.com/)
+| [**Geodyn**](https://geodyn.univ-grenoble-alpes.fr) | Visualisation of core flows and tools for geomagnetic data assimilation
 
-## Heliophysics
-- <http://heliopython.org/projects>
+---
 
-[TODO: expand this list!]
+## Ionosphere, aurora, geospace
+
+| [**SuperMAG**](http://supermag.jhuapl.edu/) | Reprocessing and visualisation of variometer data
+| [**Swarm-Aurora**](https://swarm-aurora.com/) | Browsing keograms and more
+| [**AMPERE**](http://ampere.jhuapl.edu/) | Measurements of FACs using the Iridium constellation
+| [**InGeO**](https://ingeo.datatransport.org/)| Providing tools and best practices for geospace research |
+
+---
+
+## Ground observatory data
+
+For access to and processing of ground observatory data, we refer to the [software list maintained by INTERMAGNET](https://intermagnet.github.io/software.html). Watch this space for new developments (work is in progress to integrate ground data into VirES).
+
+---
+
+## Python in geomagnetism
+
+| [viresclient](https://github.com/ESA-VirES/VirES-Python-Client/) | Python interface to VirES (easy access to Swarm products)
+| [ChaosMagPy](https://github.com/ancklo/ChaosMagPy) | Forward code for the CHAOS model (core, crust, magnetosphere) and utilities for geomagnetic field modelling
+| [pyAMPS](https://github.com/klaundal/pyAMPS/) | Forward code for the AMPS model (Average Magnetic Field and Polar current System)
+| [GeomagPy](https://github.com/geomagpy/magpy) | Analysing and displaying geomagnetic data
+| [MagPySV](https://github.com/gracecox/MagPySV) | Processing geomagnetic data for secular variation studies
+| [pygeodyn](https://gricad-gitlab.univ-grenoble-alpes.fr/Geodynamo/pygeodyn/) | Geomagnetic data assimilation for core flow studies
+
+## Python in geophysics
+
+| [Fatiando a Terra](https://www.fatiando.org/) | Toolkit for geophysics
+
+## Python in heliophysics
+Refer to the [Python in Heliophysics Community (PyHC)](http://heliopython.org/projects)

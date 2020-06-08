@@ -25,7 +25,7 @@ The focus here is on satellites in Low Earth Orbit (LEO) that produced data suit
 [Ørsted]: https://earth.esa.int/web/eoportal/satellite-missions/o/oersted
 [CHAMP]:  https://earth.esa.int/web/eoportal/satellite-missions/c-missions/champ
 [SAC-C]:  https://earth.esa.int/web/eoportal/satellite-missions/s/sac-c
-[Swarm]:  https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/mission-fact-sheet
+[Swarm]:  https://earth.esa.int/eogateway/missions/swarm
 
 Schematic of a *Swarm* spacecraft:
 ![Swarm spacecraft](/pages/figs/swarm_sc.png)

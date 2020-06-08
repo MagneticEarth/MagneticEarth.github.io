@@ -6,7 +6,8 @@ Check the live deployment of the site at https://magneticearth.org/pages/about.h
 
 The site is hosted for free using [GitHub Pages](https://pages.github.com/) and built using [Jekyll](https://jekyllrb.com/), which makes the site easy to maintain and version control, and enabling external contributions through pull requests.
 We use the [Hydeout](https://github.com/fongandrew/hydeout) Jekyll theme.
-Changes to the [repository master branch](https://github.com/MagneticEarth/MagneticEarth.github.io) are automatically built and deployed; to test the changes locally is a bit more complicated:
+Changes to the [repository master branch](https://github.com/MagneticEarth/MagneticEarth.github.io) are automatically built and deployed.
+To test the changes locally is more complicated:
 
 1. [Install Jekyll](https://jekyllrb.com/docs/installation/)
 2. Get the repository and make changes:
@@ -17,7 +18,8 @@ cd MagneticEarth.github.io
 ```
 3. Serve the website locally:
 ```bash
-jekyll serve --baseurl=''
+bundle install
+bundle exec jekyll serve
 ```
 4. Browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
