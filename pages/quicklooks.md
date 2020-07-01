@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 5
 ---
 
-Experimental deployment of quicklook figures derived from Swarm products (will be slow to load). They show the most recent available data.
+Experimental deployment of quicklook figures derived from Swarm products (may be slow to load). They show the most recent available data.
 
 Code to generate these figures is in Jupyter notebooks at [GitHub/Swarm-DISC/Swarm_quicklooks](https://github.com/Swarm-DISC/Swarm_quicklooks)
 
@@ -15,10 +15,10 @@ Updated figures are automatically generated daily using [Treebeard](https://tree
 
 ## Total magnetic field intensity
 
-![Swarm magnetic field intensity](https://api.treebeard.io/265fb0cb2f/Swarm_quicklooks/master/notebooks/output/intensity.png)
+![Swarm magnetic field intensity](https://api.treebeard.io/Swarm-DISC/Swarm_quicklooks/master/notebooks/output/intensity.png)
 
 ---
 
 ## Magnetospheric field
 
-![Swarm MMA](https://api.treebeard.io/265fb0cb2f/Swarm_quicklooks/master/notebooks/output/mma-f.png)
+![Swarm MMA](https://api.treebeard.io/Swarm-DISC/Swarm_quicklooks/master/notebooks/output/mma-f.png)
