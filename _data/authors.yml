@@ -1,0 +1,9 @@
+- name: "Ashley Smith"
+  affiliation: "University of Edinburgh"
+  github: "smithara"
+  email: "ashley.smith@ed.ac.uk"
+  website: "https://smithara.github.io"
+
+- name: "Hannah Rogers"
+  affiliation: "University of Edinburgh"
+  twitter: "hannah_rogers94"
