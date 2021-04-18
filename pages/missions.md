@@ -29,6 +29,7 @@ The focus here is on satellites in Low Earth Orbit (LEO) that produced data suit
 
 Schematic of a *Swarm* spacecraft:
 ![Swarm spacecraft](/pages/figs/swarm_sc.png)
+*Image credit: ESA*
 
 
 [TODO: magnetosphere & heliosphere missions]

@@ -50,7 +50,7 @@ For access to and processing of ground observatory data, we refer to the [softwa
 
 ## Python in geophysics
 
-| [Fatiando a Terra](https://www.fatiando.org/) | Toolkit for geophysics
+Refer to [Software Underground](https://softwareunderground.org/stack)
 
 ## Python in heliophysics
 Refer to the [Python in Heliophysics Community (PyHC)](http://heliopython.org/projects)

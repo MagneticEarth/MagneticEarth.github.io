@@ -38,7 +38,8 @@ See also: <https://maps.ngdc.noaa.gov/viewers/historical_declination/>
 The lithosphere, or *crust* (in geomagnetism we tend not to make the distinction between the two), is the rocky outer layer of the planet.
 The crust is composed of many different minerals and structures which have different magnetic properties, though can broadly be described as having both [*induced* and *remanent* magnetizations](https://www.britannica.com/science/geomagnetic-field/Sources-of-the-steady-magnetic-field#ref9356) (that which is induced by the main field, and that which would persist in the absence of the main field having been created during the formation of the rock).
 The integrated effect of the crustal magnetization is a magnetic field with a lot of fine structure.
-To get the full picture of this field, we use the globally distributed [measurements from spacecraft](https://www.bbc.co.uk/news/science-environment-39340609) together with local surveys using aircraft and ships.
+To get the full picture of this field, we use the globally distributed [measurements from spacecraft](https://www.bbc.co.uk/news/science-environment-39340609) together with regional and local surveys using aircraft and ships.
+While space measurements can give us a global model of the lithospheric field such as that shown below, many regional surveys must be compiled together to show it at higher resolution (e.g. [WDMAM](http://wdmam.org)) - this is because the shorter wavelength components dissolve away once we reach satellite altitude.
 
 <img src="/pages/figs/lcs.png" alt="LCS-1" width="80%"/>
 
