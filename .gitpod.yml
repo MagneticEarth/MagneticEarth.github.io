@@ -1,6 +1,7 @@
 # See https://www.gitpod.io/docs/config-gitpod-file
 tasks:
   - init: bundle install
-  - command: bundle exec jekyll serve
-
-
+    command: bundle exec jekyll serve --watch
+ports:
+  - port: 4000
+    onOpen: open-preview
