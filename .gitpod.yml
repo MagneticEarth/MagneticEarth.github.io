@@ -1,0 +1,6 @@
+# See https://www.gitpod.io/docs/config-gitpod-file
+tasks:
+  - init: bundle install
+  - command: bundle exec jekyll serve
+
+
