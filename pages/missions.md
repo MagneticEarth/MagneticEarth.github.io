@@ -14,22 +14,25 @@ The focus here is on satellites in Low Earth Orbit (LEO) that produced data suit
 | Mission name | Years     | Description | Data access |
 |--------------|-----------|-------------|-------------|
 | [POGO]       | 1965-1971 | [NASA] "Polar Orbiting Geophysical Observatories" (OGO-2,4,6) | [DTU](https://ftp.space.dtu.dk/data/magnetic-satellites/)
-| [Magsat]     | 1979-1980 | [NASA] First "high accuracy" vector magnetometry in space  | [DTU](https://ftp.space.dtu.dk/data/magnetic-satellites/); [NASA](https://spdf.gsfc.nasa.gov/pub/data/magsat/mag/)
+| [Magsat]     | 1979-1980 | [NASA] First "high accuracy" vector magnetometry in space  | [DTU](https://ftp.space.dtu.dk/data/magnetic-satellites/), [NASA](https://spdf.gsfc.nasa.gov/pub/data/magsat/mag/)
 | [Ørsted]     | 1999-2014 | Led by what is now DTU Space | [DTU](https://ftp.space.dtu.dk/data/magnetic-satellites/)
-| [CHAMP]      | 2000-2010 | Led by GFZ & DLR - a fore-runner for the Swarm mission | [GFZ](ftp://magftp.gfz-potsdam.de/CHAMP/L3_DATA/)
+| [CHAMP]      | 2000-2010 | Led by GFZ & DLR | [GFZ](https://doi.org/10.5880/GFZ.2.3.2019.004), VirES
 | [SAC-C]      | 2001-2004 | Led by CONAE & NASA | [DTU](https://ftp.space.dtu.dk/data/magnetic-satellites/)
-| [Swarm]      | 2013-???? | ESA Earth Explorer constellation mission - originally 3 spacecraft [but now growing](https://doi.org/10.1029/2019EO123269) | [Direct access](https://earth.esa.int/web/guest/swarm/data-access); [GUI](https://vires.services/); [Python](http://viresclient.readthedocs.io)
+| [Swarm]      | 2013-... | ESA Earth Explorer | [ESA / VirES](https://earth.esa.int/eogateway/missions/swarm/data)
+| [CSES] | 2018-... | China Seismo-Electromagnetic Satellite | 
+| [MSS] | 2023-... | Macau Science Satellites | [MSS Data Centre](https://mss.must.edu.mo/data.html)
+| [NanoMagSat] | 2027-... | ESA Scout Mission | 
 
 [POGO]:   https://space.skyrocket.de/doc_sdat/ogo.htm
-[Magsat]: https://earth.esa.int/web/eoportal/satellite-missions/m/magsat
-[Ørsted]: https://earth.esa.int/web/eoportal/satellite-missions/o/oersted
-[CHAMP]:  https://earth.esa.int/web/eoportal/satellite-missions/c-missions/champ
-[SAC-C]:  https://earth.esa.int/web/eoportal/satellite-missions/s/sac-c
-[Swarm]:  https://earth.esa.int/eogateway/missions/swarm
+[Magsat]: https://www.eoportal.org/satellite-missions/magsat-aem-3
+[Ørsted]: https://www.eoportal.org/satellite-missions/oersted
+[CHAMP]:  https://www.eoportal.org/satellite-missions/champ
+[SAC-C]:  https://www.eoportal.org/satellite-missions/sac-c
+[Swarm]:  https://www.eoportal.org/satellite-missions/swarm
+[CSES]: https://www.eoportal.org/satellite-missions/cses
+[MSS]: https://mss.must.edu.mo/
+[NanoMagSat]: https://www.eoportal.org/satellite-missions/nanomagsat
 
-Schematic of a *Swarm* spacecraft:
+Schematic of a *Swarm* spacecraft [**(view in 3D)**](https://visuals.earth.esa.int/satellites/swarm):
 ![Swarm spacecraft](/pages/figs/swarm_sc.png)
 *Image credit: ESA*
-
-
-[TODO: magnetosphere & heliosphere missions]
