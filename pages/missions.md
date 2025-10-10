@@ -52,3 +52,5 @@ NB: Three *Swarm* spacecraft are also joined by calibrated platform magnetometer
     <img src="/images/ESA_NanoMagSat_MissionLogo_Patch.png" alt="NMS patch" style="height: 200px;">
     <img src="/images/MSS-mission-patch.png" alt="MSS patch" style="height: 200px;">
 </div>
+
+Swarm, NMS, and MMS are working closely together. Joint meetings are announced on the [Swarm DISC website](https://swarmdisc.org/).
