@@ -5,6 +5,10 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
+<div class="message" markdown="1">
+**Try the [Geomagnetic Model Explorer](https://dev.swarmdisc.org/experimental/geomag-model-explorer/)** — an interactive tool for exploring and comparing the geomagnetic field sources described below.
+</div>
+
 On this page we depict the radial (vertical downward) component of various magnetic field models, evaluated at Earth's surface.
 These are predictions of the magnetic field from different physical sources individually, so that the total magnetic field is a sum of these components.
 Each model is shown over different time scales, appropriate to the nature of each source.
