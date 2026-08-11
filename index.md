@@ -9,9 +9,10 @@ Welcome to the world of geomagnetism!
 This website aims to introduce the science of Earth's magnetic field to students and new researchers.
 It is currently in the early stages of development - if you are interested in contributing or have any comments, see [About this site]({{ site.baseurl }}{% link pages/about.md %})
 
-{% include_relative pages/figs/hvplot_igrf13_2020.html %}
+<img src="/pages/figs/igrf14_2025_map.png" width="100%" alt="World map of Earth's magnetic field in 2025. Colour shows the field intensity, which is weakest over the South Atlantic and strongest near Siberia, northern Canada, and south of Australia. Red and blue contours show the declination.">
+
 *Background colour: magnetic field intensity (magnitude) in nanoTesla*  
-*Red/blue contours (hover tooltip): magnetic field declination (deviation from true North) in degrees*
+*Contours: magnetic field declination (deviation from true North) in degrees, eastward in red and westward in blue. Along the black lines a compass points to true North. From the IGRF-14 model for 2025.*
 
 ## What is geomagnetism?
 Geomagnetism is the study of Earth's magnetic field.

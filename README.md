@@ -35,3 +35,4 @@ Browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Make changes and ref
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Put images in `pages/figs/` and insert in-line with e.g. `![Swarm spacecraft](/pages/figs/swarm_sc.png)`
 - Include html from static files (e.g. html tables) stored in `pages/figs/` with `{{ "{% include_relative figs/table_models.html " }}%}`
+- Figures generated from code have their scripts in `pages/figs/src/`. Each declares its own dependencies inline ([PEP 723](https://peps.python.org/pep-0723/)), so regenerating one is just `uv run pages/figs/src/make_igrf_map.py` ([install uv](https://docs.astral.sh/uv/getting-started/installation/)). The resulting image is committed, so this is only needed when the figure itself changes.
