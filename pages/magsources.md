@@ -35,8 +35,6 @@ However, there is an obvious change over the South Atlantic and South America (b
 It is more instructive to look at the other vector components together - [**see the Core field gallery**]({% link pages/gallery_core.md %}).
 This regional weakening of the field has impacts on spacecraft due to a higher incidence of incoming radiation from space, and is connected with a global weakening ([read more](https://www.esa.int/Applications/Observing_the_Earth/Swarm/Swarm_probes_weakening_of_Earth_s_magnetic_field)).
 
-See also: <https://maps.ngdc.noaa.gov/viewers/historical_declination/>
-
 ## Lithosphere
 
 The lithosphere, or *crust* (in geomagnetism we tend not to make the distinction between the two), is the rocky outer layer of the planet.

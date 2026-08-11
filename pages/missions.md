@@ -21,8 +21,8 @@ The focus here is on satellites in Low Earth Orbit (LEO) that produced data suit
 | [Swarm]      | 2013-... | ESA Earth Explorer constellation | [ESA / VirES](https://earth.esa.int/eogateway/missions/swarm/data)
 | [CSES] | 2018-... | China Seismo-Electromagnetic Satellites (CSES-01/ZH-01, CSES-2/ZH-02) | [Leos / MEM](https://leos.ac.cn/#/dataService/dataBrowsingList)
 | [MSS] | 2023-... | Macau Science Satellites (MSS-1A; MSS-2A, MSS-2B) | [MSS Data Centre](https://mss.must.edu.mo/data.html)
-| [NMS] | 2027-... | NanoMagsat ESA Scout Mission - three cubesats implemented by Open Cosmos & IPGP | [nanomagsat.eu](https://nanomagsat.eu) 
-| [MagQuest] | ?? | Competition with three cubesat solutions | 
+| [NMS] | 2027-... | NanoMagsat ESA Scout Mission - three cubesats implemented by Open Cosmos & IPGP | [nanomagsat.fr](https://www.nanomagsat.fr/) 
+| [MagQuest] | 2026-... | Competition with three cubesat solutions | 
 
 [POGO]:   https://space.skyrocket.de/doc_sdat/ogo.htm
 [Magsat]: https://www.eoportal.org/satellite-missions/magsat-aem-3
